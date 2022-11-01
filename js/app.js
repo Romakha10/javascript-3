@@ -33,3 +33,24 @@ let i = 0;
 for (let i = 0; i < 50; i++) {
   console.log(i);
 }
+
+// დავალება N3
+
+let i = 0;
+
+while (i < 150) {
+  i++;
+
+  console.log(i);
+}
+
+// დავალება N4
+
+let i = 0;
+while (i < 100 ) ;
+
+do {
+    i++ ;
+}
+
+console.log(i);
